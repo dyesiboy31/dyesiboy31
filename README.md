@@ -1,4 +1,4 @@
-<img width="35%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/65159109?v=4" />
+<img width="25%" align="right" alt="Github" src="https://github.com/dyesiboy31/dyesiboy31/blob/main/Image.png?raw=true" />
 
 ```javascript
 const jessie = {
