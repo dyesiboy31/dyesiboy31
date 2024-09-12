@@ -4,13 +4,41 @@
 const jessie = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby, Php],
+  askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
   tools: [ React, ReactNative, Redux, Node,
            Laravel, RubyOnRails,
            Kubernetes, Docker, AdonisJS ],
   architecture: ["microservices", "monolith",
                  "domain drivin design"],
   editor: [ Vim, PhpStorm, VisualStudio],
- challenge: "I am learning new tech tools/framework on JavaScript."
+  technologies: {
+      frontEnd: {
+          js: ["React", "Next.js"],
+          css: ["Sass", "Tailwind", "Bootstrap", "RCss"],
+          uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+      },
+      backEnd: {
+          js: ["Node", "Express", "AdonisJS"],
+          ruby: ["RubyOnRails"],
+          php: ["Laravel", "Lumen"]
+      },
+      mobileApp: {
+          crossPlatform: ["ReactNative"],
+      },
+      devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+      cloudServices: {
+          aws: [ "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+      },
+      databases: ["PostgreSQL", "MongoDB", "SQLite",
+                 "Firebase Realtime DB", "redis"],
+      misc: ["Socket.IO", "REST APIs", "WebSockets", "GRPC"],
+  },
+  architecture: {
+      frontEnd: ["SPA", "SSR"],
+      backEnd: ["microservices", "monolithic", "serverless"],
+      devOps: ["CloudFormation", "Serverless Framework"],
+      databases: ["Relational", "NoSQL", "In-memory"],
+  }
 }
 ```
 
