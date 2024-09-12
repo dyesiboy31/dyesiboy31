@@ -1,3 +1,20 @@
+<img width="35%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/65159109?v=4" />
+
+```javascript
+const jessie = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby, Php],
+  tools: [ React, ReactNative, Redux, Node,
+           Laravel, RubyOnRails,
+           Kubernetes, Docker, AdonisJS ],
+  architecture: ["microservices", "monolith",
+                 "domain drivin design"],
+  editor: [ Vim, PhpStorm, VisualStudio],
+ challenge: "I am learning new tech tools/framework on JavaScript."
+}
+```
+
+
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
