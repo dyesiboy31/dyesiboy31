@@ -30,7 +30,8 @@ const jessie = {
           aws: [ "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
       },
       databases: ["PostgreSQL", "MongoDB", "SQLite",
-                 "Firebase Realtime DB", "redis"],
+                 "Firebase Realtime DB", "redis",
+                  "mariaDB", "Mysql"],
       misc: ["Socket.IO", "REST APIs", "WebSockets", "GRPC"],
   },
   architecture: {
